@@ -1,2 +1,2 @@
-# ebarik
-tg: @ebarik_site
+# Telegram - @ebarik_site
+Site - www.ebarik.xyz
